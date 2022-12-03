@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['94711581814']
+global.ownernomer = "94711581814"
+global.premium = ['94711581814']
 global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.author = 'Cj Dev'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -34,18 +34,18 @@ global.sp = ''
 // Setting Mess
 global.mess = {
     success: '✅Done',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
+    admin: 'Group Admin Special Features!',
+    botAdmin: 'Bot Must Become Admin First!',
     premime: 'Fitur Khusus Premium Kalo Mau Daftar Ketik Sewa / Chat Owner',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
+    owner: 'Special Features of Owner Bot',
+    group: 'Features Used Only For Groups!',
+    private: 'Features Used Only For Private Chat!',
+    bot: 'Special Features for Bot Number Users',
     wait: 'Loading...',
     error: 'Error!',
     errapi: 'Error Mungkin Apikey Tidak Valid!',
     errmor: 'Error Kesalahan Sistem',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    endLimit: 'Your Daily Limit Has Been Expired, The Limit Will Reset Every 12 Hours',
 }
 
 // Limit
@@ -60,14 +60,14 @@ global.faall = fs.readFileSync('./media/image/fake.jpg')
 
 // Url
 global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
-global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
-global.mygc = "https://chat.whatsapp.com/Cp1OJenk6Q9D9vgLjLU558"
+global.myyt = 'https://chat.whatsapp.com/FQqnthj21zt2Eiiv7rQKxC'
+global.myytv = '94711581814'
+global.mygc = "https://chat.whatsapp.com/FQqnthj21zt2Eiiv7rQKxC"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'NAZE BOT'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'C BOT'
+global.akulaku = 'Bot By Hydra dark alpha'
+global.ytname = 'Coming zoon' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
