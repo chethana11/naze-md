@@ -23,7 +23,7 @@ global.owner = ['6285875158363']
 global.ownernomer = "6285875158363"
 global.premium = ['6285875158363']
 global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.author = 'Cj Dev'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -60,8 +60,8 @@ global.faall = fs.readFileSync('./media/image/fake.jpg')
 
 // Url
 global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
-global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
+global.myyt = '711581814'
+global.myytv = '711581814'
 global.mygc = "https://chat.whatsapp.com/Cp1OJenk6Q9D9vgLjLU558"
 
 // Engak Ngaruh, Belum Kepasang
